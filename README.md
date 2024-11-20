@@ -12,6 +12,9 @@ Este projeto apresenta um piso inovador capaz de gerar energia elétrica a parti
 `git clone https://github.com/phbrg/gs-front.git`
 2. Abra o arquivo `index.html` com um navegador de sua preferencia.
 
+### Deploy
+[Acessar deploy](https://gs-front-drab.vercel.app/)
+
 ### Projeto no Figma
 [Acessar figma](https://www.figma.com/design/ujWaf306moVWkc5HSJ5tLi/EcoPiso?node-id=0-1&t=jKS4HIcTUcZKwGvq-1)
 

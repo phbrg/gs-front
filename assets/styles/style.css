@@ -297,6 +297,35 @@ main {
   }
 }
 
+/* notify */
+#notify {
+  opacity: 0%;
+  position: fixed;
+  margin-top: 85vh;
+  margin-left: 3vw;
+  padding: 10px 20px;
+  border-radius: 6px;
+  max-width: 20vw;
+  background-color: #dbefdb;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
+
+  & h1 {
+    color: var(--green);
+    font-size: 1.2vw;
+    font-weight: 550;
+  }
+
+  & p {
+    color: var(--green);
+    font-size: 1vw;
+    word-wrap: break-word;
+  }
+}
+
+.appear {
+  opacity: 100% !important;
+}
+
 /* responsive  */
 @media screen and (max-width: 768px) {
   header, footer {
